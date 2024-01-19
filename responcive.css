@@ -1,0 +1,134 @@
+@media (max-width: 450px) {
+    img {
+      width: 60px;
+     }
+     ul{
+        display: none;
+     }
+     h3 {
+        margin-top: 10px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        cursor: pointer;
+       }
+     button {
+     position: absolute;
+     top: 80%;
+     left: 40%;
+     transform: translate(-40%, -80%);
+     }
+     .b2 {
+     position: absolute;
+     top: 87%;
+     left: 40%;
+     transform: translate(-40%, -87%);
+     }
+    }
+    @media (max-width: 970px) {
+     ul li {
+      display: none;
+     }
+    }
+    h3 {
+        margin-top: 10px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        color: grey;
+        text-align: center;
+        cursor: pointer;
+       }
+    
+    @media (max-width: 1319px) {
+     button {
+      width: 200px;
+      height: 40px;
+      font-size: 13px;
+     }
+     .b2 {
+      width: 200px;
+      height: 40px;
+      font-size: 13px;
+     }
+    }
+    
+    @media (max-width: 1149px) {
+     button {
+      width: 200px;
+      height: 40px;
+      font-size: 13px;
+     }
+     .b2 {
+      width: 200px;
+      height: 40px;
+      font-size: 13px;
+     }
+    }
+    
+    
+    @media (max-width: 1101px) {
+     button {
+      width: 190px;
+      font-size: 11px;
+      height: 35px;
+     }
+     .b2 {
+      width: 190px;
+      font-size: 11px;
+      height: 35px;
+     }
+    }
+    
+    @media (max-width: 1058px) {
+     button {
+      width: 180px;
+      font-size: 7px;
+      height: 35px;
+     }
+     .b2 {
+      width: 180px;
+      font-size: 7px;
+      height: 35px;
+     }
+    }
+    
+    @media (max-width: 1057px) {
+     button {
+      font-size: 10px;
+     }
+     .b2 {
+      font-size: 10px;
+     }
+    }
+    
+    
+    @media (max-width: 1005px) {
+     button {
+      width: 170px;
+     }
+     .b2 {
+      width: 170px;
+     }
+    }
+    @media (max-width: 939px) {
+     button {
+     position: absolute;
+     top: 80%;
+     left: 50%;
+     transform: translate(-50%, -80%);
+     }
+     .b2 {
+     position: absolute;
+     top: 87%;
+     left: 50%;
+     transform: translate(-50%, -87%);
+     }
+    }
+    
+    @media (max-width: 1163px) {
+     ul li {
+      font-size: 13px;
+      margin: 7px;
+     }
+    }
