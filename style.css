@@ -516,7 +516,7 @@ img {
 	font-size: 1em;
 	position: absolute;
 	bottom: 13vh;
-	left: 18vw;
+	margin-inline: 21vw;
 }
 
 .button-64 {
@@ -979,7 +979,7 @@ img {
 		font-size: 1vh;
 		position: absolute;
 		bottom: 31vh;
-		left: 0vw;
+		margin-inline: 21vw;
 	}
 
 	.button-64 {
